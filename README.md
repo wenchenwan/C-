@@ -583,7 +583,7 @@ void GoodGay::Visit2() {
 
 ### 7.1加号运算符重载
 
-```
+```C++
 #include<iostream>
 
 using namespace std;
